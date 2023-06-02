@@ -1,0 +1,93 @@
+[
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 1
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 2
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 3
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 4
+		
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 5
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 6
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 7
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 8
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 9
+	},
+	{
+		"title": "titulo4",
+		"description": "6",
+		"price": 4500,
+		"imagen": "7",
+		"code": "89",
+		"stock": 17,
+		"id": 10
+	}
+]
